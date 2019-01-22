@@ -1,0 +1,14 @@
+{
+    "name": "nerijus/cart",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Nerijus Janauskis",
+            "email": "nerieshas@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Cart\\": "src/"}
+    }
+}

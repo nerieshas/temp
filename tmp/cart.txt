@@ -1,0 +1,8 @@
+aaa;omgomg;3;100;EUR
+aaa;omgomg;3;100;EUR
+aaa;omgomg;3;100;EUR
+aaa;;-7;;
+aaa;omgomg;3;100;GBP
+aaa;omgomg;3;100;GBP
+aaa;omgomg;3;100;GBP
+aaa;;-7;;
